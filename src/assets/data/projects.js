@@ -28,8 +28,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Asteroid Game',
-    desc:
-      'A team project, where we have built an asteroid mining game with agile software development technics',
+    desc: 'A team project, where we have built an asteroid mining game with agile software development technics',
     img: AsteroidImg,
   },
   {
@@ -41,8 +40,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Elvira',
-    desc:
-      'An android app for tracking the trains based on the elvira site design.',
+    desc: 'An android app for tracking the trains based on the elvira site design.',
     img: ElviraImg,
   },
 ];
