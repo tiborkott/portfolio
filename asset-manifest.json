@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8353b83a.chunk.css",
-    "main.js": "/portfolio/static/js/main.0e5d3f71.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0e5d3f71.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.e62464b3.chunk.js": "/portfolio/static/js/2.e62464b3.chunk.js",
-    "static/js/2.e62464b3.chunk.js.map": "/portfolio/static/js/2.e62464b3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e9c7420d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e9c7420d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
+    "static/css/2.853ba1bc.chunk.css": "/portfolio/static/css/2.853ba1bc.chunk.css",
+    "static/js/2.e7318d89.chunk.js": "/portfolio/static/js/2.e7318d89.chunk.js",
+    "static/js/2.e7318d89.chunk.js.map": "/portfolio/static/js/2.e7318d89.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.8353b83a.chunk.css.map": "/portfolio/static/css/main.8353b83a.chunk.css.map",
-    "static/js/2.e62464b3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e62464b3.chunk.js.LICENSE.txt"
+    "static/css/2.853ba1bc.chunk.css.map": "/portfolio/static/css/2.853ba1bc.chunk.css.map",
+    "static/js/2.e7318d89.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e7318d89.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/asteroid_game.92e4205f.png": "/portfolio/static/media/asteroid_game.92e4205f.png",
+    "static/media/chess.b60d87cd.png": "/portfolio/static/media/chess.b60d87cd.png",
+    "static/media/elvira.1ec8e91e.png": "/portfolio/static/media/elvira.1ec8e91e.png",
+    "static/media/projectImg.771236e1.png": "/portfolio/static/media/projectImg.771236e1.png",
+    "static/media/snake.4790b319.png": "/portfolio/static/media/snake.4790b319.png",
+    "static/media/sudoku_solver_2.4c566b24.png": "/portfolio/static/media/sudoku_solver_2.4c566b24.png",
+    "static/media/trainticket.77da27e6.png": "/portfolio/static/media/trainticket.77da27e6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.76232b81.js",
-    "static/js/2.e62464b3.chunk.js",
-    "static/css/main.8353b83a.chunk.css",
-    "static/js/main.0e5d3f71.chunk.js"
+    "static/js/runtime-main.37da8305.js",
+    "static/css/2.853ba1bc.chunk.css",
+    "static/js/2.e7318d89.chunk.js",
+    "static/js/main.e9c7420d.chunk.js"
   ]
 }
