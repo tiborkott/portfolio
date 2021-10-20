@@ -1,2 +1,0 @@
-# tiborkott.github.io
-Portfolio
